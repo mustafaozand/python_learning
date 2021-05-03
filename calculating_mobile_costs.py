@@ -9,10 +9,10 @@ print()
 print("To check the total amount of money you have spent please answer the questions below")
 
 minutes_talked = input("How many minutes have you talked on the phone this month?:")
-minutes_cost = float(minutes_talked) * 0.10
+minutes_cost = int(minutes_talked) * 0.10
 
 number_of_texts = input ("How many texts have you sent in a month:")
-texts_cost = float(number_of_texts) * 0.05
+texts_cost = int(number_of_texts) * 0.05
 
 
 bill_amount = minutes_cost + texts_cost 
