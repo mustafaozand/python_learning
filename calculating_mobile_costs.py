@@ -1,5 +1,8 @@
 # Calculating Mobile Phone Costs
+# date: 03/05/2021
+
 username = input("Enter Name and Surname:")
+
 print()
 print ("Welcome",username,)
 print()
