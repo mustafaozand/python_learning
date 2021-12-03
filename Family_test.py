@@ -1,11 +1,11 @@
 name=input("What is your first name?")
-if name.upper() == "RUBAR":
+if name.upper() == "John":
     print("You are a pro and a scammer")
-if name.upper() == "TURKAN":
+if name.upper() == "Tesla Bot":
     print("Vacum Cleaner")
-if name.upper() == "OZAN":
+if name.upper() == "Elon":
     print("You are clever")
-if name.upper() == "ALI":
+if name.upper() == "Ozzy":
     print("You are a really good programmer")
 elif name.upper():
-    print("Sorry, You are not in the family")
+    print("Sorry, You are unverified")
