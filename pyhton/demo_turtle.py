@@ -6,7 +6,7 @@ screen = turtle.Screen()
 # screen.setup(600, 500, startx=1000, starty=20)
 
 # added to explain how git is working
-screen.bgcolor("black")
+screen.bgcolor("red")
 
 screen.title("Turtle Power")
 tess = turtle.Turtle()
